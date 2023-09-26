@@ -1,11 +1,11 @@
-# Desenvolvimento de um Sistema de Coleta e Entrega de Notícias Automatizado Utilizando Web Scraping, Integração com WhatsApp e GitHub Actions
+# Automated News Collection and Delivery System Using Web Scraping, WhatsApp Integration, and GitHub Actions
 
 
-#### Resumo
-Este projeto aborda o desenvolvimento de uma aplicação que coleta as notícias mais recentes  em dois dos principais e mais respeitados veículos de notícias do Brasil. O sistema incorpora uma abordagem diferente e atual que visa solucionar os desafios impostos pelo volume abismal de dados disponíveis na web e busca a automação de processos manuais.
+#### About
+This project revolves around the development of an innovative system designed to automate the collection and delivery of the latest news from prominent news sources. Leveraging the power of web scraping, WhatsApp integration, and GitHub Actions, we have created a robust solution to tackle the challenges posed by the vast volume of online data and the increasing demand for real-time information.
 
-Essa solução tecnológica combina técnicas de Web Scraping para coletar notícias relevantes, a integração do WhatsApp via API para entregar essas notícias automaticamente aos usuários e a utilização do GitHub Actions para gerenciar e automatizar o fluxo de trabalho. O objetivo principal é otimizar a experiência do usuário, permitindo que eles obtenham informações relevantes de forma ágil e eficiente.
+Our system employs web scraping techniques to efficiently gather news articles from reputable sources like Estadão and CNN Brasil. It then integrates seamlessly with WhatsApp using a third-party API for automated news delivery to users. GitHub Actions orchestrates the entire workflow, ensuring timely execution of collection, processing, and delivery tasks at scheduled intervals throughout the day.
 
-O projeto envolverá uma demonstração prática das técnicas de Web Scraping, tratamento de dados, bem como a implementação prática do sistema e a automação do fluxo de trabalho com o GitHub Actions.
+By optimizing the user experience, our system enables individuals to receive relevant news content quickly and effortlessly. It also addresses the issue of misinformation by delivering trustworthy news from reliable sources. Through this project, we aim to demonstrate the capabilities of web scraping and related technologies in enhancing the automated collection and delivery of information, ultimately improving information dissemination in our highly digitized society.
 
-No cerne deste projeto está o desejo de contribuir para a compreensão das capacidades do Web Scraping e das tecnologias correlatas no aprimoramento da coleta e entrega automatizada de informações, com o propósito de melhorar a disseminação das mesmas em nossa sociedade altamente digitalizada.
+Keywords: Web Scraping, WhatsApp API, GitHub Actions
